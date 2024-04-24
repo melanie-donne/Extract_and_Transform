@@ -1,0 +1,62 @@
+[
+    {
+        "immatriculation": "SC404KK",
+        "name": "Frances Sevillano",
+        "location": {
+            "address": "7700 Morningside Drive Northwest",
+            "city": "Edgewood",
+            "state": "WA",
+            "zipcode": "98371"
+        },
+        "phone": "O741783877",
+        "points": 12
+    },
+    {
+        "immatriculation": "ZN773WQ",
+        "name": "Vanessa Montoya",
+        "location": {
+            "address": "618 McLaws Street",
+            "city": "Savannah",
+            "state": "GA",
+            "zipcode": "31405"
+        },
+        "phone": "O772044156",
+        "points": 7
+    },
+    {
+        "immatriculation": "NN960TY",
+        "name": "Candice Johnson",
+        "location": {
+            "address": "711 Tatem Street",
+            "city": "Savannah",
+            "state": "GA",
+            "zipcode": "31401"
+        },
+        "phone": "0695748051",
+        "points": 4
+    },
+    {
+        "immatriculation": "YG378VR",
+        "name": "Tommie Eguia",
+        "location": {
+            "address": "5130 Morris Way",
+            "city": "Fremont",
+            "state": "CA",
+            "zipcode": "94538"
+        },
+        "phone": "O787379654",
+        "points": 9
+    },
+    {
+        "immatriculation": "RA441MQ",
+        "name": "Patricia Smith",
+        "location": {
+            "address": "2068 Happy Lane",
+            "city": "Crofton",
+            "state": "MD",
+            "zipcode": "21114"
+        },
+        "phone": "O714159726",
+        "points": 8
+    }
+]
